@@ -23,7 +23,7 @@ Ce projet est un script en JavaScript utilisant Node.js qui permet aux utilisate
    ```bash
    npm install
    
-Utilisation
+# Utilisation
    
    Pour exécuter le script :
    
@@ -31,7 +31,7 @@ Utilisation
    
    node manage_packages.js
 
-Instructions
+# Instructions
 
     Le script affichera la liste des programmes installés.
     Il identifiera les paquets dangereux selon la liste définie dans le code.
@@ -39,7 +39,7 @@ Instructions
     Confirmez la suppression lorsque demandé.
     La liste des programmes sera également sauvegardée dans installed_packages.json.
 
-Exemple de Paquets Dangereux
+# Exemple de Paquets Dangereux
 
 Modifiez la variable dangerousPackages dans le script pour ajouter ou supprimer des noms de paquets que vous souhaitez surveiller.
 Contribution
