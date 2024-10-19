@@ -25,9 +25,7 @@ Ce projet est un script en JavaScript utilisant Node.js qui permet aux utilisate
    
 ## Utilisation
    
-   Pour exécuter le script :
-   
-   bash
+### Pour exécuter le script :
    
    node manage_packages.js
 
